@@ -4,17 +4,17 @@ using CustomFlashlight;
 using MelonLoader;
 
 
-[assembly: MelonInfo(typeof(FlashlightMod), "FlashlightToggle", "1.0.0", "Bowilla")]
+[assembly: MelonInfo(typeof(FlashlightMod), "CustomFlashlight", "1.0.0", "Bowilla")]
 [assembly: MelonGame("", "Beton Brutal")]
 
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FlashlightToggle")]
+[assembly: AssemblyTitle("CustomFlashlight")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FlashlightToggle")]
+[assembly: AssemblyProduct("CustomFlashlight")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
