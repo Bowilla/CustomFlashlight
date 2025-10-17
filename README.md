@@ -4,7 +4,7 @@ Ever wanted to play with a brighter light? Now you can!\
 Want to jump around in the dark? Good luck!
 
 This mod has several presets to get you started.\
-Integration with [BBModMenu](https://thunderstore.io/c/beton-brutal/p/Beton_Bros/BBModMenu/)
+Integration with [BBModMenu](https://github.com/MiaouZart/BBModMenu)
 makes it very easy to adjust settings.
 
 ### Flashlight Power Button
