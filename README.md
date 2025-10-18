@@ -33,3 +33,8 @@ R - Red part of RGB color
 G - Green part of RGB color
 B - Blue part of RGB color
 ```
+
+## Install
+This mod is used with [MelonLoader](https://github.com/LavaGang/MelonLoader).\
+Mod dependency: [BBModMenu](https://github.com/MiaouZart/BBModMenu)\
+You may also get this on [Thunderstore](https://thunderstore.io/c/beton-brutal/p/Beton_Bros/CustomFlashlight/).
