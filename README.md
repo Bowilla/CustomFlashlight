@@ -29,9 +29,9 @@ Intensity: Brightness of light
 Range: Distance of light
 Spot Angle: Width of light
 
-R - Red part of RGB color
-G - Green part of RGB color
-B - Blue part of RGB color
+Red - RGB color
+Green - RGB color
+Blue - RGB color
 ```
 
 ## Install
